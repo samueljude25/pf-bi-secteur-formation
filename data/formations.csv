@@ -1,0 +1,11 @@
+formation_id,titre,categorie,description,duree_heures,prix_xaf,niveau,intervenant_principal_id,date_creation,statut,nb_places_max,certification
+1,Développement Web Full Stack,Informatique,Maîtrisez HTML/CSS/JavaScript et les frameworks modernes pour créer des applications web complètes,120,150000,Intermédiaire,1,2024-01-01,Actif,30,Oui
+2,Data Analyst avec Python,Data & IA,Analysez et visualisez des données avec Python (Pandas NumPy Matplotlib Seaborn),80,120000,Intermédiaire,2,2024-01-01,Actif,25,Oui
+3,Gestion de Projet Agile,Management,Maîtrisez les méthodologies Scrum et Kanban pour piloter vos projets digitaux,40,80000,Débutant,3,2024-01-01,Actif,35,Oui
+4,Comptabilité et Finance d'Entreprise,Finance,Fondamentaux de la comptabilité générale et de la gestion financière adaptés au contexte africain,60,100000,Débutant,4,2024-01-15,Actif,30,Non
+5,Marketing Digital et Réseaux Sociaux,Marketing,Stratégie digitale community management publicité en ligne et analytics,50,90000,Débutant,5,2024-01-15,Actif,40,Oui
+6,Power BI et Business Intelligence,Data & IA,Créez des tableaux de bord interactifs et maîtrisez la visualisation de données professionnelle,60,130000,Intermédiaire,2,2024-02-01,Actif,20,Oui
+7,Administration Réseau et Cybersécurité,Informatique,Sécurisez vos infrastructures réseau et protégez vos systèmes d'information,90,140000,Avancé,1,2024-02-01,Actif,20,Oui
+8,Entrepreneuriat et Création d'Entreprise,Business,De l'idée à l'entreprise : business plan financement et stratégie de lancement,45,70000,Débutant,6,2024-03-01,Actif,50,Non
+9,Excel Avancé pour les Professionnels,Bureautique,Fonctions avancées tableaux croisés dynamiques macros VBA et automatisation,30,50000,Intermédiaire,4,2024-03-01,Actif,40,Non
+10,Anglais Professionnel des Affaires,Langues,Communication professionnelle en anglais pour le monde des affaires et des négociations,40,60000,Débutant,7,2024-04-01,Actif,35,Oui

@@ -1,0 +1,124 @@
+evaluation_id,inscription_id,apprenant_id,formation_id,intervenant_id,date_evaluation,note_globale,note_contenu,note_intervenant,note_plateforme,note_rapport_qualite_prix,commentaire,recommande,nps_score
+1,1,1,1,1,2024-05-22,5,5,5,4,5,Formation excellente ! Le contenu est très pratique et applicable immédiatement. Alex est un super formateur.,Oui,9
+2,2,2,2,2,2024-04-20,5,5,5,5,5,Sarah est brillante. La formation m'a permis de décrocher un poste de data analyst. Je recommande vivement.,Oui,10
+3,3,3,3,3,2024-03-27,4,4,4,4,4,Bonne formation sur Agile. Théodore maîtrise bien son sujet. Quelques exercices pratiques supplémentaires seraient appréciés.,Oui,8
+5,5,5,5,5,2024-03-30,4,4,5,4,4,Formation bien structurée sur le marketing digital. Joël est passionné et communicatif.,Oui,8
+6,6,6,1,1,2024-06-02,5,5,5,5,5,Deuxième formation avec Alex et toujours aussi excellent. Le contenu Full Stack est complet et à jour.,Oui,10
+8,8,8,2,2,2024-05-12,5,5,5,4,5,Formation data analyst très complète. Sarah va au-delà du programme pour s'assurer que tout le monde comprend.,Oui,9
+10,10,10,3,3,2024-04-12,4,5,4,3,4,Bonne formation Agile. J'aurais aimé plus d'exemples concrets tirés de projets africains.,Oui,7
+11,11,11,5,5,2024-04-22,5,5,5,5,4,Formation marketing digital très pertinente pour notre marché local. Joël connaît bien les réalités africaines.,Oui,9
+13,13,13,1,1,2024-06-20,5,5,5,5,5,Excellente formation. Je suis maintenant développeur web freelance grâce à cette formation. Merci Alex !,Oui,10
+14,14,14,6,2,2024-04-27,5,5,5,5,5,Power BI est maintenant mon meilleur outil. Sarah rend les concepts complexes très accessibles.,Oui,10
+15,15,15,8,6,2024-04-24,4,4,4,4,5,Formation entrepreneuriat très motivante. Angélique partage des expériences réelles d'entrepreneurs africains.,Oui,8
+16,16,16,2,2,2024-05-30,4,4,5,4,4,Formation complète sur Python Data. Sarah est une excellente formatrice avec beaucoup de pédagogie.,Oui,8
+17,17,17,9,10,2024-04-02,3,3,3,4,3,Formation Excel correcte mais j'attendais plus de contenu sur les macros VBA. Félicité est agréable.,Neutre,6
+19,19,19,5,5,2024-05-10,5,5,5,4,5,Excellent retour sur investissement. La formation m'a aidé à doubler mon CA en ligne en 3 mois.,Oui,10
+21,21,21,1,1,2024-07-12,5,5,5,5,5,Formation référence en développement web en Afrique centrale. Alex est vraiment le meilleur dans son domaine.,Oui,10
+23,23,23,6,2,2024-05-20,5,4,5,5,4,Power BI est fantastique. Sarah nous a très bien guidés dans la prise en main de cet outil puissant.,Oui,9
+24,24,24,2,2,2024-06-22,4,4,5,4,4,Formation data analyst solide. Les projets pratiques sont vraiment utiles pour consolider les apprentissages.,Oui,8
+25,25,25,8,6,2024-05-24,5,5,5,5,5,Angélique est inspirante ! Sa formation m'a donné le courage de lancer mon entreprise.,Oui,10
+26,26,26,9,10,2024-04-27,3,3,3,3,4,Formation Excel basique. Je m'attendais à plus d'approfondissement sur les fonctions avancées.,Non,4
+27,27,27,3,3,2024-06-07,4,4,4,4,4,Formation Agile bien dispensée. Théodore apporte une vision pragmatique de la gestion de projet.,Oui,7
+28,28,28,5,5,2024-06-02,5,5,5,4,5,Marketing digital très bien enseigné. Les stratégies proposées sont adaptées au contexte africain.,Oui,9
+29,29,29,10,7,2024-06-04,4,4,4,4,4,Formation anglais professionnel efficace. Richard est un excellent communicateur. Bonne ambiance de classe.,Oui,8
+31,31,31,1,1,2024-08-10,5,5,5,5,5,Troisième promotion et la qualité reste constante. Alex est un formateur exceptionnel. Bravo !,Oui,10
+32,32,32,2,2,2024-07-17,4,5,4,4,4,Très bonne formation en data science. Le module machine learning est particulièrement bien conçu.,Oui,8
+33,33,33,6,2,2024-06-14,5,5,5,5,5,Power BI n'a plus de secrets pour moi. Formation parfaite du début à la fin. Sarah est exceptionnelle.,Oui,10
+35,35,35,8,6,2024-06-20,4,4,4,4,4,Formation entrepreneuriat utile. J'aurais aimé plus d'informations sur les financements disponibles au Congo.,Oui,7
+36,36,36,3,3,2024-06-27,5,5,5,4,5,Formation Agile de très haute qualité. Théodore est vraiment un expert. Je recommande sans hésitation.,Oui,9
+37,37,37,5,5,2024-06-24,4,4,4,4,4,Bonne formation marketing. Les cas pratiques sur les entreprises congolaises sont très pertinents.,Oui,8
+38,38,38,9,10,2024-05-27,4,4,4,4,4,Formation Excel bien dispensée. Les fonctions avancées sont bien expliquées. Félicité est patiente.,Oui,7
+39,39,39,10,7,2024-07-01,5,5,5,5,5,Formation anglais excellent. Richard rend l'apprentissage agréable et efficace. Je progresse rapidement.,Oui,9
+42,42,42,2,2,2024-08-12,5,5,5,5,4,Formation data analyst parfaite. Sarah m'a appris à valoriser les données pour prendre de meilleures décisions.,Oui,9
+43,43,43,6,2,2024-07-14,4,4,5,4,4,Excellente formation Power BI. Le module DAX est particulièrement bien expliqué par Sarah.,Oui,8
+45,45,45,8,6,2024-07-20,5,5,5,4,5,Angélique est une coach remarquable. Sa formation m'a donné les clés pour créer mon agence digitale.,Oui,10
+46,46,46,3,3,2024-07-22,4,4,4,4,4,Formation Agile solide et pratique. Les exercices en groupe sont très enrichissants.,Oui,8
+47,47,47,5,5,2024-07-24,5,5,5,5,5,Marketing digital excellent. Joël est un formateur dynamique et passionné. Les résultats sont au rendez-vous.,Oui,10
+48,48,48,9,10,2024-06-27,3,3,4,3,3,Formation Excel correcte mais manque d'exemples concrets pour le secteur bancaire congolais.,Neutre,5
+49,49,49,10,7,2024-07-30,4,4,4,4,5,Très bonne formation en anglais. Le vocabulaire professionnel est bien couvert. Je recommande.,Oui,8
+51,51,1,6,2,2024-08-10,5,5,5,5,5,Deuxième formation avec Sarah sur Power BI avancé. Toujours aussi excellente et pédagogique.,Oui,10
+52,52,2,5,5,2024-08-14,5,5,5,5,5,Marketing digital parfaitement enseigné. Joël combine théorie et pratique de manière exemplaire.,Oui,10
+53,53,3,8,6,2024-08-17,4,4,4,4,4,Formation entrepreneuriat bien conçue. Angélique partage des anecdotes inspirantes de son parcours.,Oui,8
+54,54,5,2,2,2024-09-20,5,5,5,5,5,Sarah est la meilleure formatrice data que j'ai eu. Formation ultra complète et applicable.,Oui,10
+55,55,8,3,3,2024-08-22,4,5,4,3,4,Bonne formation Agile. Le module Kanban est très bien expliqué et applicable dès le lendemain.,Oui,8
+56,56,10,9,10,2024-07-24,4,4,4,4,4,Formation Excel avancé satisfaisante. Les tableaux croisés dynamiques sont bien couverts.,Oui,7
+58,58,13,10,7,2024-08-30,5,5,5,5,4,Richard est un excellent formateur en anglais. Sa méthode est efficace et motivante.,Oui,9
+59,59,14,3,3,2024-09-04,4,4,4,4,4,Deuxième formation avec Théodore et toujours très satisfaisant. Gestion de projet maîtrisée.,Oui,8
+60,60,16,8,6,2024-09-07,5,5,5,5,5,Formation entrepreneuriat transformante. Angélique nous a fourni tous les outils pour réussir.,Oui,10
+61,61,19,6,2,2024-09-10,5,5,5,5,5,Power BI niveau expert atteint grâce à Sarah. Le module sur les mesures DAX est magistral.,Oui,10
+62,62,21,2,2,2024-10-12,4,4,5,4,4,Formation data analyst complète. Sarah adapte le contenu aux besoins spécifiques des participants.,Oui,8
+63,63,23,5,5,2024-09-14,5,5,5,4,5,Joël est un expert marketing exceptionnel. J'ai mis en place sa stratégie et les résultats sont fantastiques.,Oui,10
+64,64,24,9,10,2024-08-17,4,4,4,4,4,Excel avancé bien enseigné. La partie sur les macros est claire et bien expliquée par Félicité.,Oui,7
+65,65,25,3,3,2024-09-20,4,4,4,4,4,Formation Agile très pertinente pour mon travail en gestion de projets informatiques.,Oui,8
+66,66,27,8,6,2024-09-22,5,5,5,5,5,Angélique m'a donné la confiance nécessaire pour lancer mon projet d'entreprise. Merci infiniment !,Oui,10
+67,67,28,10,7,2024-09-24,4,4,4,5,4,Formation anglais professionnel de qualité. Richard est un professeur talentueux et bienveillant.,Oui,8
+68,68,29,6,2,2024-09-27,5,5,5,5,5,Power BI est maintenant mon outil de prédilection. Sarah est une formatrice hors pair en BI.,Oui,10
+69,69,31,5,5,2024-09-30,4,4,5,4,4,Marketing digital bien enseigné. Les campagnes publicitaires sont bien expliquées avec des cas réels.,Oui,8
+71,71,33,9,10,2024-09-07,3,3,3,4,3,Formation Excel correct mais j'aurais aimé aller plus loin dans l'automatisation VBA.,Neutre,5
+72,72,35,2,2,2024-11-10,5,5,5,5,5,Formation data parfaite. Sarah est vraiment une référence en data science en Afrique centrale.,Oui,10
+73,73,36,10,7,2024-10-12,4,4,4,4,4,Formation anglais efficace. Richard utilise des méthodes modernes qui rendent l'apprentissage agréable.,Oui,8
+74,74,37,6,2,2024-10-14,5,5,5,5,5,Power BI maîtrisé ! Sarah nous a permis de créer un dashboard complet pour notre direction.,Oui,10
+75,75,39,8,6,2024-10-17,4,4,4,4,4,Formation entrepreneuriat solide. Les exercices pratiques de création de business plan sont excellents.,Oui,8
+76,76,42,5,5,2024-10-20,5,5,5,5,5,Marketing digital excellent. Joël est un passionné qui transmet son enthousiasme à ses apprenants.,Oui,10
+77,77,43,3,3,2024-10-22,4,4,4,4,4,Agile bien maîtrisé après cette formation. Théodore est un formateur expérimenté et pédagogue.,Oui,7
+78,78,45,9,10,2024-09-24,4,4,4,4,4,Excel avancé de bonne qualité. Les exercices pratiques sont pertinents et bien calibrés.,Oui,7
+79,79,46,10,7,2024-10-27,5,5,5,5,5,Richard est un formateur exceptionnel. Mon anglais professionnel s'est nettement amélioré.,Oui,9
+81,81,1,9,10,2024-10-10,4,4,4,4,4,Formation Excel satisfaisante. Félicité est une formatrice patient et attentive aux besoins.,Oui,7
+82,82,3,10,7,2024-11-12,4,4,5,4,4,Formation anglais de qualité. Richard m'a aidé à améliorer ma confiance en communication orale.,Oui,8
+83,83,6,8,6,2024-11-14,5,5,5,5,5,Angélique est une coach extraordinaire. Sa vision du business en Afrique est inspirante.,Oui,10
+84,84,8,6,2,2024-11-17,5,5,5,5,5,Power BI niveau avancé atteint. Sarah continue d'impressionner par sa maîtrise et sa pédagogie.,Oui,10
+85,85,10,5,5,2024-11-20,5,5,5,4,5,Marketing digital parfait. Joël nous a appris à créer des campagnes rentables sur les réseaux sociaux.,Oui,9
+86,86,12,3,3,2024-11-22,4,4,4,4,4,Troisième formation sur les méthodologies agiles. Théodore reste toujours aussi pertinent.,Oui,8
+87,87,15,2,2,2024-12-24,5,5,5,5,5,Sarah est absolument la meilleure en data science. Formation indispensable pour tout analyste.,Oui,10
+88,88,17,9,10,2024-10-27,4,4,4,4,4,Formation Excel avancé bien conçue. Les macros et VBA sont abordés de manière progressive.,Oui,7
+90,90,20,5,5,2024-12-04,4,4,5,4,4,Joël est un marketeur digital talentueux. La formation est pratique et directement applicable.,Oui,8
+91,91,22,6,2,2024-12-10,5,5,5,5,5,Power BI expert. Sarah nous a guidés dans la création de rapports complexes et performants.,Oui,10
+92,92,24,8,6,2024-12-12,4,4,4,4,4,Formation entrepreneuriat complète. Angélique apporte un regard réaliste sur les défis africains.,Oui,8
+93,93,26,3,3,2024-12-14,5,5,5,4,5,Formation Agile toujours de haut niveau avec Théodore. Méthodes directement applicables.,Oui,9
+94,94,28,2,2,2025-01-17,5,5,5,5,5,Formation data analyst complète et actualisée. Sarah est un vrai atout pour notre écosystème digital.,Oui,10
+95,95,30,9,10,2024-11-20,3,3,3,4,3,Formation Excel trop rapide sur certains modules. Félicité devrait ralentir le rythme.,Neutre,5
+96,96,34,5,5,2024-12-22,5,5,5,5,5,Marketing digital de top niveau. Joël combine stratégie et opérationnel avec beaucoup de talent.,Oui,10
+97,97,38,6,2,2024-12-24,5,5,5,5,5,Power BI maîtrisé du début à la fin. Sarah est une formatrice incomparable en BI.,Oui,10
+98,98,40,3,3,2024-12-27,4,4,4,4,4,Formation Agile bien structurée. Théodore adapte le contenu aux réalités des entreprises locales.,Oui,8
+99,99,44,2,2,2025-01-30,5,5,5,5,5,Formation data analyst transformante. Sarah m'a ouvert les yeux sur le potentiel des données.,Oui,10
+100,100,48,8,6,2025-01-04,4,4,4,4,4,Formation entrepreneuriat solide. Les étapes de création d'entreprise sont bien détaillées.,Oui,8
+102,102,4,6,2,2025-01-12,5,5,5,5,5,Power BI expert atteint. Sarah est une formatrice extraordinaire. Dashboard professionnel créé.,Oui,10
+103,103,7,5,5,2025-01-14,4,4,5,4,4,Marketing digital de qualité. Joël partage des stratégies innovantes et adaptées au marché africain.,Oui,8
+104,104,9,2,2,2025-02-17,5,5,5,5,5,Formation data complète et exigeante. Sarah pousse ses apprenants à se dépasser. Excellent résultat.,Oui,10
+105,105,11,9,10,2024-12-20,4,4,4,4,4,Formation Excel avancé satisfaisante. Les fonctions avancées sont bien documentées par Félicité.,Oui,7
+106,106,13,3,3,2025-01-22,4,4,4,4,4,Formation Agile de qualité. Théodore est toujours aussi pertinent dans ses explications pratiques.,Oui,8
+107,107,16,8,6,2025-01-24,5,5,5,5,5,Angélique est une coach business inspirante. Sa formation m'a permis de structurer mon projet.,Oui,10
+108,108,19,10,7,2025-01-27,4,4,4,5,4,Formation anglais professionnel efficace. Richard anime ses sessions avec beaucoup d'énergie.,Oui,8
+111,111,25,6,2,2025-02-10,5,5,5,5,5,Power BI niveau expert. Sarah nous donne les clés pour créer des rapports de classe mondiale.,Oui,10
+112,112,27,2,2,2025-03-12,5,5,5,5,5,Formation data analyst irréprochable. Sarah est définitivement la meilleure formatrice de la plateforme.,Oui,10
+113,113,29,5,5,2025-02-14,4,4,5,4,4,Marketing digital solide. Joël est un expert passionné qui partage généreusement son savoir.,Oui,8
+114,114,31,9,10,2025-01-17,4,4,4,4,4,Formation Excel satisfaisante. Le module VBA est bien introduit et les exercices sont pertinents.,Oui,7
+115,115,33,8,6,2025-02-20,4,4,4,5,4,Formation entrepreneuriat de bonne facture. Angélique est une coach inspirante et généreuse.,Oui,8
+116,116,35,3,3,2025-02-22,5,5,5,4,5,Formation Agile parfaite. Théodore maîtrise à la perfection les méthodologies modernes de gestion.,Oui,9
+117,117,37,10,7,2025-02-24,4,4,4,4,5,Formation anglais excellent. Richard fait progresser ses apprenants rapidement et durablement.,Oui,8
+118,118,39,6,2,2025-02-27,5,5,5,5,5,Power BI expert niveau atteint. Sarah continue d'innover dans ses méthodes pédagogiques.,Oui,10
+120,120,43,5,5,2025-03-07,5,5,5,5,5,Marketing digital de très haut niveau. Joël est l'expert marketing digital de référence à Brazzaville.,Oui,10
+121,121,45,3,3,2025-03-14,4,4,4,4,4,Formation Agile solide et pratique. Les simulations de sprint sont particulièrement enrichissantes.,Oui,8
+122,122,47,9,10,2025-02-17,4,4,4,4,4,Formation Excel avancé de qualité. Félicité explique les formules complexes avec simplicité.,Oui,7
+123,123,49,6,2,2025-03-20,5,5,5,5,5,Power BI toujours excellent avec Sarah. La formation est mise à jour régulièrement. Top !,Oui,10
+124,124,50,8,6,2025-03-22,4,4,4,4,4,Formation entrepreneuriat complète. Angélique aborde tous les aspects du lancement d'entreprise.,Oui,8
+125,125,1,5,5,2025-04-10,5,5,5,5,5,Formation marketing digital parfaite. Joël est une référence en digital marketing en Afrique centrale.,Oui,10
+127,127,6,10,7,2025-04-14,4,4,4,4,4,Formation anglais professionnel efficace. Richard améliore visiblement le niveau de ses apprenants.,Oui,8
+128,128,8,9,10,2025-03-17,4,4,4,4,4,Formation Excel avancé bien faite. Les macros sont expliquées de manière accessible par Félicité.,Oui,7
+129,129,10,3,3,2025-04-20,5,5,5,4,5,Formation Agile toujours au top. Théodore est un formateur de grande qualité et d'expérience.,Oui,9
+130,130,12,6,2,2025-04-22,5,5,5,5,5,Power BI parfait. Sarah est une référence absolue en Business Intelligence en Afrique francophone.,Oui,10
+131,131,15,5,5,2025-05-10,4,4,5,4,4,Marketing digital de qualité. Joël est dynamique et partage des stratégies très concrètes.,Oui,8
+132,132,17,3,3,2025-05-12,4,4,4,4,4,Formation Agile solide. Théodore adapte parfaitement le contenu aux réalités du marché congolais.,Oui,8
+134,134,22,9,10,2025-04-17,4,4,4,4,4,Formation Excel avancé efficace. Les fonctions et tableaux croisés sont bien couverts.,Oui,7
+135,135,26,6,2,2025-05-20,5,5,5,5,5,Power BI niveau expert. Sarah continue de nous épater par sa maîtrise technique et pédagogique.,Oui,10
+136,136,30,5,5,2025-05-22,4,4,5,4,5,Marketing digital solide. Les stratégies publicitaires enseignées sont directement applicables.,Oui,8
+137,137,34,8,6,2025-05-24,4,4,4,4,4,Formation entrepreneuriat de qualité. Angélique m'a aidé à structurer mon business plan.,Oui,8
+139,139,42,10,7,2025-06-12,4,4,4,4,4,Formation anglais professionnel efficace. Richard travaille vraiment la communication en contexte business.,Oui,8
+140,140,44,6,2,2025-06-14,5,5,5,5,5,Power BI parfaitement maîtrisé. Sarah est l'une des meilleures formatrices BI que j'ai rencontrées.,Oui,10
+142,142,48,5,5,2025-06-20,5,5,5,5,5,Formation marketing digital de haut niveau. Joël est un expert inspirant et généreux dans ses conseils.,Oui,10
+143,143,50,3,3,2025-06-22,4,4,4,4,4,Formation Agile de qualité. Théodore maîtrise les méthodologies et les transmet avec pédagogie.,Oui,8
+144,144,2,9,10,2025-06-10,4,4,4,4,4,Formation Excel avancé satisfaisante. Félicité est patiente et attentive aux besoins des apprenants.,Oui,7
+146,146,7,6,2,2025-07-14,5,5,5,5,5,Power BI excellent. Sarah est une formatrice de talent qui rend la BI accessible à tous.,Oui,10
+147,147,9,3,3,2025-07-17,4,4,4,4,4,Formation Agile toujours pertinente avec Théodore. Bonne maîtrise des outils de gestion de projet.,Oui,8
+148,148,11,8,6,2025-07-20,5,5,5,5,5,Angélique est une coach business remarquable. Sa formation a transformé mon rapport à l'entrepreneuriat.,Oui,10
+150,150,16,10,7,2025-07-24,4,4,4,4,4,Formation anglais efficace. Richard utilise des supports modernes et des méthodes engageantes.,Oui,8

@@ -1,0 +1,11 @@
+intervenant_id,nom,prenom,email,specialite,experience_annees,tarif_journalier_xaf,ville,pays,note_moyenne,nb_formations_animees,biographie_courte
+1,Ndoumbe,Alex,a.ndoumbe@formateur.com,Développement Web & Mobile,8,75000,Brazzaville,Congo,4.6,12,Ingénieur logiciel certifié avec 8 ans d'expérience dans le développement web et mobile. Expert JavaScript et React.
+2,Mvioki,Sarah,s.mvioki@formateur.com,Data Science & BI,10,85000,Pointe-Noire,Congo,4.8,18,Data Scientist diplômée de Paris-Dauphine. Spécialiste Python Power BI et machine learning appliqué aux enjeux africains.
+3,Bouesso,Théodore,t.bouesso@formateur.com,Management de Projet,12,80000,Brazzaville,Congo,4.5,22,PMP et Scrum Master certifié. 12 ans d'expérience en gestion de projets IT et transformation digitale en Afrique centrale.
+4,Elenga,Patricia,p.elenga@formateur.com,Finance & Comptabilité,9,70000,Dolisie,Congo,4.3,15,Expert-comptable diplômée avec une expertise dans la comptabilité OHADA et la gestion financière des PME africaines.
+5,Nkabi,Joël,j.nkabi@formateur.com,Marketing Digital,7,65000,Brazzaville,Congo,4.4,10,Consultant marketing digital avec 7 ans d'expérience en stratégie web et community management pour le marché congolais.
+6,Moussoki,Angélique,a.moussoki@formateur.com,Entrepreneuriat & Business,11,72000,Kinshasa,RDC,4.7,14,Entrepreneuse et coach certifiée. Fondatrice de 3 startups africaines. Spécialiste du financement et de l'écosystème startup.
+7,Tsoumou,Richard,r.tsoumou@formateur.com,Langues & Communication,6,55000,Brazzaville,Congo,4.2,8,Professeur agrégé d'anglais. Traducteur certifié et formateur en communication interculturelle pour les entreprises.
+8,Mongo,Nadine,n.mongo@formateur.com,Ressources Humaines,8,68000,Pointe-Noire,Congo,4.5,11,DRH expérimentée spécialisée dans la gestion des talents et la transformation des organisations en Afrique subsaharienne.
+9,Lekouaghet,Bruno,b.lekouaghet@formateur.com,Logistique & Supply Chain,9,73000,Brazzaville,Congo,4.3,9,Expert en logistique et chaîne d'approvisionnement avec une expérience dans les secteurs pétrolier et minier du Congo.
+10,Koumou,Félicité,f.koumou@formateur.com,Bureautique & Outils Digitaux,5,50000,Brazzaville,Congo,4.1,7,Formatrice certifiée Microsoft Office. Spécialiste de la productivité digitale et de l'automatisation des tâches bureautiques.

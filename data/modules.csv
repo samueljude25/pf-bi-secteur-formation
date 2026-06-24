@@ -1,0 +1,31 @@
+module_id,formation_id,titre,ordre,duree_heures,description,type_contenu,obligatoire
+1,1,Introduction au HTML et CSS,1,12,Balises HTML5 sémantiques et stylisation CSS3 responsive design,Vidéo + TP,Oui
+2,1,JavaScript Fondamentaux,2,16,Variables fonctions DOM manipulation et événements,Vidéo + TP,Oui
+3,1,Framework React.js,3,20,Composants hooks state management et API REST,Vidéo + Projet,Oui
+4,1,Base de données et SQL,4,14,Modélisation relationnelle MySQL et requêtes avancées,Vidéo + TP,Oui
+5,1,Déploiement et DevOps,5,10,Git CI/CD déploiement cloud et bonnes pratiques,Vidéo + TP,Non
+6,2,Python pour l'Analyse de Données,1,16,Environnement Python Jupyter Pandas et NumPy,Vidéo + TP,Oui
+7,2,Visualisation avec Matplotlib et Seaborn,2,14,Graphiques statistiques tableaux de bord et storytelling,Vidéo + Projet,Oui
+8,2,Statistiques Descriptives et Inférentielles,3,18,Moyenne médiane écart-type tests d'hypothèse,Vidéo + TP,Oui
+9,2,SQL pour l'Analyse de Données,4,16,Requêtes complexes agrégations et fenêtres analytiques,Vidéo + TP,Oui
+10,2,Introduction au Machine Learning,5,16,Régression classification et clustering avec Scikit-learn,Vidéo + Projet,Non
+11,3,Fondamentaux du Management de Projet,1,8,Cycle de vie d'un projet parties prenantes et livrables,Vidéo + Quiz,Oui
+12,3,Méthodologie Scrum,2,12,Rôles cérémonies backlog sprint et définition of done,Vidéo + TP,Oui
+13,3,Kanban et Lean Management,3,10,Flux de travail WIP limites kaizen et métriques,Vidéo + TP,Oui
+14,3,Outils de Gestion (Jira Trello),4,10,Configuration des outils reporting automatisé et intégrations,Vidéo + TP,Non
+15,4,Comptabilité Générale OHADA,1,20,Plan comptable OHADA journal grand livre et balance,Vidéo + TP,Oui
+16,4,États Financiers et Analyse,2,18,Bilan compte de résultat flux de trésorerie et ratios,Vidéo + Cas,Oui
+17,4,Fiscalité et Obligations Légales Congo,3,12,TVA impôt sur les sociétés obligations déclaratives,Vidéo + Quiz,Oui
+18,4,Gestion Budgétaire et Prévisions,4,10,Construction du budget contrôle et révisions,Vidéo + Projet,Non
+19,5,Stratégie de Présence Digitale,1,10,Audit digital positionnement et plan d'action marketing,Vidéo + TP,Oui
+20,5,Gestion des Réseaux Sociaux,2,14,Facebook Instagram LinkedIn TikTok et stratégie de contenu,Vidéo + TP,Oui
+21,5,Google Ads et Meta Ads,3,14,Création de campagnes ciblage budget et optimisation ROI,Vidéo + Projet,Oui
+22,5,Analytics et Mesure de Performance,4,12,Google Analytics 4 KPIs tableaux de bord et A/B testing,Vidéo + TP,Non
+23,6,Introduction à la Business Intelligence,1,10,Concepts ETL entrepôt de données et rapport décisionnel,Vidéo + Quiz,Oui
+24,6,Power Query et Transformation des Données,2,15,Import nettoyage fusion et transformation des données,Vidéo + TP,Oui
+25,6,Modélisation de Données Power BI,3,15,Schéma en étoile relations et bonnes pratiques DAX,Vidéo + TP,Oui
+26,6,DAX et Mesures Avancées,4,20,Fonctions CALCULATE FILTER et mesures contextuelles,Vidéo + Projet,Oui
+27,7,Réseaux TCP/IP et Infrastructure,1,20,Modèle OSI adressage IP routage et commutation,Vidéo + TP,Oui
+28,7,Sécurité des Systèmes d'Information,2,25,Menaces vulnérabilités pare-feu et chiffrement,Vidéo + TP,Oui
+29,7,Administration Linux et Windows Server,3,25,Installation configuration services réseau et supervision,Vidéo + Projet,Oui
+30,7,Certification et Conformité,4,20,ISO 27001 RGPD et audit de sécurité,Vidéo + Cas,Non
